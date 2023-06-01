@@ -8,8 +8,12 @@ The purpose is to identify trends in the success rate of kickstarter campaigns f
 
 ### Analysis of Outcomes Based on Launch Date
 The analysis was performed using pivot tables and pivot charts.
+![Theater_Outcomes_vs_Launch](https://github.com/pacefegley/kickstarter-analysis/assets/119641907/9df5e042-26c7-49ca-9c1b-2333d4196544)
+
 ### Analysis of Outcomes Based on Goals
 The analysis was performed using the countifs function and Excel charts.
+![Outcomes_vs_Goals](https://github.com/pacefegley/kickstarter-analysis/assets/119641907/8fbc80e5-7b31-4e12-99da-9618fdfc95c8)
+
 ### Challenges and Difficulties Encountered
 One issue I ran into was the title for my pivot chart. While researching, I discovered there is a known bug that causes titles not to show up on Macs when using pivot charts specifically. I solved this by manually creating a text box over the chart to house my title.
 ## Results
